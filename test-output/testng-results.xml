@@ -2,24 +2,24 @@
 <testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-05T19:47:15 IST" name="Default suite" finished-at="2020-08-05T19:47:59 IST" duration-ms="44471">
+  <suite started-at="2020-08-12T19:52:32 IST" name="Default suite" finished-at="2020-08-12T19:53:27 IST" duration-ms="55114">
     <groups>
     </groups>
-    <test started-at="2020-08-05T19:47:15 IST" name="Default test" finished-at="2020-08-05T19:47:59 IST" duration-ms="44471">
+    <test started-at="2020-08-12T19:52:32 IST" name="Default test" finished-at="2020-08-12T19:53:27 IST" duration-ms="55114">
       <class name="selenium4.ShadowElementTests">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium4.ShadowElementTests@f381794]" started-at="2020-08-05T19:47:15 IST" name="setUp" finished-at="2020-08-05T19:47:20 IST" duration-ms="5346" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium4.ShadowElementTests@f381794]" started-at="2020-08-12T19:52:32 IST" name="setUp" finished-at="2020-08-12T19:52:48 IST" duration-ms="15946" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="addItemToday()[pri:1, instance:selenium4.ShadowElementTests@f381794]" started-at="2020-08-05T19:47:20 IST" name="addItemToday" finished-at="2020-08-05T19:47:40 IST" duration-ms="19474" status="PASS">
+        <test-method signature="addItemToday()[pri:1, instance:selenium4.ShadowElementTests@f381794]" started-at="2020-08-12T19:52:48 IST" name="addItemToday" finished-at="2020-08-12T19:53:07 IST" duration-ms="19464" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addItemToday -->
-        <test-method signature="addItemLater()[pri:2, instance:selenium4.ShadowElementTests@f381794]" started-at="2020-08-05T19:47:40 IST" name="addItemLater" finished-at="2020-08-05T19:47:59 IST" duration-ms="19374" status="PASS">
+        <test-method signature="addItemLater()[pri:2, instance:selenium4.ShadowElementTests@f381794]" started-at="2020-08-12T19:53:07 IST" name="addItemLater" finished-at="2020-08-12T19:53:27 IST" duration-ms="19389" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addItemLater -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium4.ShadowElementTests@f381794]" started-at="2020-08-05T19:47:59 IST" name="tearDown" finished-at="2020-08-05T19:47:59 IST" duration-ms="230" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium4.ShadowElementTests@f381794]" started-at="2020-08-12T19:53:27 IST" name="tearDown" finished-at="2020-08-12T19:53:27 IST" duration-ms="269" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -5,9 +5,9 @@
     <classes>
       <class name="selenium4.ShadowElementTests">
         <methods>
-          <include name="deleteItemLater"/>
-          <include name="deleteItemToday"/>
+          <include name="addItemToday"/>
           <include name="tearDown"/>
+          <include name="addItemLater"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- selenium4.ShadowElementTests -->

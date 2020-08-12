@@ -24,7 +24,7 @@ public class ShadowElementTests {
 		driver = new ChromeDriver();
 
 		driver.manage().window().maximize();
-		driver.get("http://localhost:8085/");
+		driver.get("http://localhost:3000/");
 
 	}
 
@@ -71,7 +71,7 @@ public class ShadowElementTests {
 		Thread.sleep(3000);
 	}
 	
-	//Returns shadow-root element
+	//Returns shadow-root element - passing element as a arguments[0]
 	public WebElement expandRootElement(WebElement element) {
 		WebElement ele = (WebElement) ((JavascriptExecutor) driver)
 				.executeScript("return arguments[0].shadowRoot",element);
